@@ -1,0 +1,190 @@
+*{
+    padding: 0;margin: 0;
+}
+
+nav{
+    padding-top: 50px;
+}
+
+
+.list{
+    display: flex;
+    padding-top: 15px;
+    padding-right: 20px;
+}
+
+.list .list_item{
+    padding-left: 20px;
+    list-style: none;
+}
+
+.btnPrimary{
+    margin-left: 180px;
+    padding: 15px 30px;
+    border-radius: 5px;
+    background: #EE5514 !important;
+    border: none !important;
+    color: white !important;
+}
+
+.line{
+    width: 360px;
+    height: 350px;
+    border: 10px solid #EE5514;
+    margin-top: 50px;
+    margin-left: 70px;
+
+}
+
+.fatherbox{
+    position: relative;
+}
+
+.nike{
+position: absolute;
+top: 10%;
+left: 0px;
+width: 500px;
+}
+
+.this{
+    padding-top: 100px;
+    font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 61px;
+line-height: 120%;
+color: #1A0A03;
+}
+
+.this span{
+color: #EE5514;
+}
+
+.lorem{
+    padding-top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;   
+    color: #1A0A03;
+    
+    opacity: 0.7; 
+}
+
+.modal{
+  margin-top: 300px;  
+}
+
+.imgModal{
+    width: 200px;
+   
+}
+
+.modal-body{
+    text-align: center;
+}
+
+.section1{
+    padding-top: 150px;
+
+}
+.video{
+    padding-bottom: 7px;
+    font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 150%;
+letter-spacing: 0.05em;
+color: #EE5514;
+}
+
+.desire{
+    font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 130%;
+color: #1A0A03;
+
+}
+
+.youtube{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    padding-left: -100px;
+}
+
+.feature{
+  text-align: center;
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: #EE5514; 
+}
+
+.We{
+    text-align: center;
+    font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 130%;
+color: #1A0A03;
+padding-bottom: 60px;
+}
+
+.iconCard{
+    width: 100px;
+    height: 100px;
+   margin: 100px 158px 40px 158px;
+}
+
+.cardText{
+    font-family: 'Source Serif Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 150%;
+    text-align: center;
+    color: #1A0A03;
+}
+
+.cardP{
+   
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;
+    text-align: center;
+    color: #1A0A03;
+    opacity: 0.7;
+}
+
+.read{
+    padding-bottom: 50px;
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 160%;
+text-align: center;
+color: #EE5514;
+cursor: pointer;
+}
+
+.section2{
+    padding-bottom: 140px;
+    padding-top: 140px;
+}
+
+.card{
+    box-shadow: 0px 1px 30px rgba(26, 10, 3, 0.2);
+}
